@@ -65,7 +65,7 @@ class SupervisorActor extends Actor {
   }
 }
 
-object SupervisorStratergy extends App{
+object SupervisorStratergy extends App {
 
   val actorSystem = ActorSystem("Supervision")
 
