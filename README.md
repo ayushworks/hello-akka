@@ -8,3 +8,4 @@
 4. How to create custom mailbox for your application <br/>
 5. How to use become/unbecome feature <br/>
 6. Message priority settings with ControlMessage class <br/>
+7. Fault tolerance : OneForOne and OneForAll strategies
